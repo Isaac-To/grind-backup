@@ -66,6 +66,15 @@
    "difficulty": 2.118103970459016,
    "due": "2026-10-21T20:54:39.164163+00:00",
    "last_review": "2026-10-21T20:44:39.164163+00:00"
+  },
+  "invert-binary-tree": {
+   "card_id": 1792616345332,
+   "state": 1,
+   "step": 0,
+   "stability": 0.212,
+   "difficulty": 6.4133,
+   "due": "2026-10-21T21:00:05.329986+00:00",
+   "last_review": "2026-10-21T20:59:05.329986+00:00"
   }
  },
  "logs": [
@@ -131,11 +140,20 @@
    "new": true,
    "ts": "2026-10-21T20:44:39.164163+00:00",
    "tests": "6/6"
+  },
+  {
+   "slug": "invert-binary-tree",
+   "rating": 1.0,
+   "solved": false,
+   "elapsed": 13.6,
+   "new": true,
+   "ts": "2026-10-21T20:59:05.329986+00:00",
+   "tests": "4/6"
   }
  ],
  "session": null,
  "seen_intro": true,
- "last": "reverse-linked-list",
+ "last": "invert-binary-tree",
  "graded_files": {},
  "update": {
   "ts": "2026-10-21T16:27:22.023062+00:00",
