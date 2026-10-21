@@ -29,6 +29,15 @@
    "difficulty": 1.0,
    "due": "2026-10-28T15:54:47.645486+00:00",
    "last_review": "2026-10-21T15:54:47.645486+00:00"
+  },
+  "best-time-to-buy-and-sell-stock": {
+   "card_id": 1792599550045,
+   "state": 2,
+   "step": null,
+   "stability": 8.2956,
+   "difficulty": 1.0,
+   "due": "2026-10-27T16:19:10.040007+00:00",
+   "last_review": "2026-10-21T16:19:10.040007+00:00"
   }
  },
  "logs": [
@@ -49,9 +58,21 @@
    "new": true,
    "ts": "2026-10-21T15:54:47.645486+00:00",
    "tests": "3/3"
+  },
+  {
+   "slug": "best-time-to-buy-and-sell-stock",
+   "rating": 3.83,
+   "solved": true,
+   "elapsed": 1.8,
+   "new": true,
+   "ts": "2026-10-21T16:19:10.040007+00:00",
+   "tests": "2/2"
   }
  ],
  "session": null,
  "seen_intro": true,
- "last": "valid-palindrome"
+ "last": "best-time-to-buy-and-sell-stock",
+ "graded_files": {
+  "best-time-to-buy-and-sell-stock": true
+ }
 }
