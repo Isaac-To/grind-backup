@@ -90,8 +90,5 @@
  "session": null,
  "seen_intro": true,
  "last": "valid-parentheses",
- "graded_files": {
-  "best-time-to-buy-and-sell-stock": true,
-  "valid-parentheses": true
- }
+ "graded_files": {}
 }
