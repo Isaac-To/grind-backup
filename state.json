@@ -57,6 +57,15 @@
    "difficulty": 2.111214235785395,
    "due": "2026-10-23T20:07:28.857460+00:00",
    "last_review": "2026-10-21T20:07:28.857460+00:00"
+  },
+  "reverse-linked-list": {
+   "card_id": 1792615479166,
+   "state": 1,
+   "step": 1,
+   "stability": 2.3065,
+   "difficulty": 2.118103970459016,
+   "due": "2026-10-21T20:54:39.164163+00:00",
+   "last_review": "2026-10-21T20:44:39.164163+00:00"
   }
  },
  "logs": [
@@ -113,11 +122,20 @@
    "new": false,
    "ts": "2026-10-21T20:07:28.857460+00:00",
    "tests": "6/6"
+  },
+  {
+   "slug": "reverse-linked-list",
+   "rating": 2.59,
+   "solved": true,
+   "elapsed": 26.7,
+   "new": true,
+   "ts": "2026-10-21T20:44:39.164163+00:00",
+   "tests": "6/6"
   }
  ],
  "session": null,
  "seen_intro": true,
- "last": "binary-search",
+ "last": "reverse-linked-list",
  "graded_files": {},
  "update": {
   "ts": "2026-10-21T16:27:22.023062+00:00",
