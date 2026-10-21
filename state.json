@@ -9,7 +9,8 @@
   "retention_target": 0.9,
   "auto_web": false,
   "auto_edit": false,
-  "backup_remote": "https://github.com/Isaac-To/grind-backup"
+  "backup_remote": "https://github.com/Isaac-To/grind-backup",
+  "update_check": true
  },
  "cards": {
   "contains-duplicate": {
@@ -90,5 +91,9 @@
  "session": null,
  "seen_intro": true,
  "last": "valid-parentheses",
- "graded_files": {}
+ "graded_files": {},
+ "update": {
+  "ts": "2026-10-21T16:27:22.023062+00:00",
+  "latest": null
+ }
 }
