@@ -48,6 +48,15 @@
    "difficulty": 1.0,
    "due": "2026-10-30T16:21:31.070230+00:00",
    "last_review": "2026-10-21T16:21:31.070230+00:00"
+  },
+  "binary-search": {
+   "card_id": 1792601501296,
+   "state": 1,
+   "step": 1,
+   "stability": 2.3065,
+   "difficulty": 2.118103970459016,
+   "due": "2026-10-21T17:01:41.295082+00:00",
+   "last_review": "2026-10-21T16:51:41.295082+00:00"
   }
  },
  "logs": [
@@ -86,11 +95,20 @@
    "new": true,
    "ts": "2026-10-21T16:21:31.070230+00:00",
    "tests": "5/5"
+  },
+  {
+   "slug": "binary-search",
+   "rating": 2.96,
+   "solved": true,
+   "elapsed": 15.8,
+   "new": true,
+   "ts": "2026-10-21T16:51:41.295082+00:00",
+   "tests": "2/2"
   }
  ],
  "session": null,
  "seen_intro": true,
- "last": "valid-parentheses",
+ "last": "binary-search",
  "graded_files": {},
  "update": {
   "ts": "2026-10-21T16:27:22.023062+00:00",
