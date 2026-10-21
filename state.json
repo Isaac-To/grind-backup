@@ -60,12 +60,12 @@
   },
   "reverse-linked-list": {
    "card_id": 1792615479166,
-   "state": 1,
-   "step": 1,
-   "stability": 2.3065,
-   "difficulty": 2.118103970459016,
-   "due": "2026-10-21T20:54:39.164163+00:00",
-   "last_review": "2026-10-21T20:44:39.164163+00:00"
+   "state": 2,
+   "step": null,
+   "stability": 3.219746939316625,
+   "difficulty": 1.4922575209190896,
+   "due": "2026-10-25T13:13:44.469385+00:00",
+   "last_review": "2026-10-21T21:07:27.646873+00:00"
   },
   "invert-binary-tree": {
    "card_id": 1792616345332,
@@ -149,11 +149,20 @@
    "new": true,
    "ts": "2026-10-21T20:59:05.329986+00:00",
    "tests": "4/6"
+  },
+  {
+   "slug": "reverse-linked-list",
+   "rating": 3.56,
+   "solved": true,
+   "elapsed": 5.2,
+   "new": false,
+   "ts": "2026-10-21T21:07:27.646873+00:00",
+   "tests": "6/6"
   }
  ],
  "session": null,
  "seen_intro": true,
- "last": "invert-binary-tree",
+ "last": "reverse-linked-list",
  "graded_files": {},
  "update": {
   "ts": "2026-10-21T16:27:22.023062+00:00",
