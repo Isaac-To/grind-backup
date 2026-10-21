@@ -11,13 +11,29 @@
   "auto_edit": false,
   "backup_remote": "https://github.com/Isaac-To/grind-backup"
  },
- "cards": {},
- "logs": [],
- "session": {
-  "slug": "contains-duplicate",
-  "started": "2026-10-21T04:44:59.638880+00:00",
-  "why": "new problem",
-  "scaffold": "solutions/contains-duplicate.py"
+ "cards": {
+  "contains-duplicate": {
+   "card_id": 1792597933695,
+   "state": 2,
+   "step": null,
+   "stability": 8.2956,
+   "difficulty": 1.0,
+   "due": "2026-10-31T15:52:13.691087+00:00",
+   "last_review": "2026-10-21T15:52:13.691087+00:00"
+  }
  },
- "seen_intro": true
+ "logs": [
+  {
+   "slug": "contains-duplicate",
+   "rating": 3.9,
+   "solved": true,
+   "elapsed": 1.0,
+   "new": true,
+   "ts": "2026-10-21T15:52:13.691087+00:00",
+   "tests": "3/3"
+  }
+ ],
+ "session": null,
+ "seen_intro": true,
+ "last": "contains-duplicate"
 }
