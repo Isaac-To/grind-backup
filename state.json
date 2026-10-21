@@ -1,0 +1,23 @@
+{
+ "config": {
+  "daily_new": 5,
+  "targets": {
+   "Easy": 15,
+   "Medium": 30,
+   "Hard": 45
+  },
+  "retention_target": 0.9,
+  "auto_web": false,
+  "auto_edit": false,
+  "backup_remote": ""
+ },
+ "cards": {},
+ "logs": [],
+ "session": {
+  "slug": "contains-duplicate",
+  "started": "2026-10-21T04:44:59.638880+00:00",
+  "why": "new problem",
+  "scaffold": "solutions/contains-duplicate.py"
+ },
+ "seen_intro": true
+}
