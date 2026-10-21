@@ -9,7 +9,7 @@
   "retention_target": 0.9,
   "auto_web": false,
   "auto_edit": false,
-  "backup_remote": ""
+  "backup_remote": "https://github.com/Isaac-To/grind-backup"
  },
  "cards": {},
  "logs": [],
