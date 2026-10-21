@@ -24,12 +24,12 @@
   },
   "valid-palindrome": {
    "card_id": 1792598087648,
-   "state": 2,
-   "step": null,
-   "stability": 8.2956,
-   "difficulty": 1.0,
-   "due": "2026-10-28T15:54:47.645486+00:00",
-   "last_review": "2026-10-21T15:54:47.645486+00:00"
+   "state": 3,
+   "step": 0,
+   "stability": 2.5625081682260777,
+   "difficulty": 7.0269895692968385,
+   "due": "2026-10-21T23:31:38.295187+00:00",
+   "last_review": "2026-10-21T23:21:38.295187+00:00"
   },
   "best-time-to-buy-and-sell-stock": {
    "card_id": 1792599550045,
@@ -55,7 +55,7 @@
    "step": null,
    "stability": 2.3065,
    "difficulty": 2.111214235785395,
-   "due": "2026-10-23T20:07:28.857460+00:00",
+   "due": "2026-10-21T22:21:25.418979+00:00",
    "last_review": "2026-10-21T20:07:28.857460+00:00"
   },
   "reverse-linked-list": {
@@ -212,11 +212,20 @@
    "new": false,
    "ts": "2026-10-21T23:17:56.176008+00:00",
    "tests": "0/5"
+  },
+  {
+   "slug": "valid-palindrome",
+   "rating": 1.0,
+   "solved": false,
+   "elapsed": 1.0,
+   "new": false,
+   "ts": "2026-10-21T23:21:38.295187+00:00",
+   "tests": "0/6"
   }
  ],
  "session": null,
  "seen_intro": true,
- "last": "kth-largest-element-in-a-stream",
+ "last": "valid-palindrome",
  "graded_files": {},
  "update": {
   "ts": "2026-10-21T16:27:22.023062+00:00",
