@@ -49,5 +49,6 @@ You must write an algorithm with `O(log n)` runtime complexity.
 
 ---
 
-*The examples above are pre-loaded into `TESTS` in the solution file —
-`grind check` runs a few, `grind done` runs all of them and grades.*
+*The examples above are pre-loaded into `TESTS` in the solution file,
+with extra hand-written edge cases after them — `grind check` runs the
+first few, `grind done` runs all of them and grades.*
